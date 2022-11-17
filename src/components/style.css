@@ -1,0 +1,19 @@
+/* .container{
+    background-color: skyblue;
+} */
+.editButton{
+    background-color: white;
+}
+.deleteButton{
+    background-color: red;
+}
+.addButton{
+    height: 30px;
+    width: 50px;
+}
+.theader{
+    background-color: rgb(162, 143, 118);
+}
+.tbody{
+    background-color: rgb(240, 239, 237);
+}
